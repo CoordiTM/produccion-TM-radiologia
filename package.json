@@ -2,7 +2,7 @@
   "name": "produccion-tm-github",
   "version": "1.0.0",
   "private": true,
-  "homepage": "https://TU_USUARIO.github.io/produccion-tm-github",
+  "homepage": "https://coorditm.github.io/produccion-TM-radiologia"
   "dependencies": {
     "firebase": "^10.12.0",
     "lucide-react": "^0.400.0",
